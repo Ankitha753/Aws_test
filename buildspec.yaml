@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    AWS_DEFAULT_REGION: ap-south-1
+    AWS_DEFAULT_REGION: us-east-1
     REPOSITORY_URI: 869935073677.dkr.ecr.us-east-1.amazonaws.com/aws_container
     DOCKER_CONTAINER_NAME: aws_container
 
